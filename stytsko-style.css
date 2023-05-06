@@ -63,3 +63,22 @@ a:link {
 a:visited {
     color: #A0A0A0;
 }
+
+@media (min-width: 1950px) {
+    h1 {
+        font-size: 60px;
+    }
+
+    .st {
+        font-size: 40px;
+    }
+    
+    .stytsko-more-about {
+        font-size: 35px;
+    }
+    
+    .stytsko-two {
+        font-size: 35px;
+    }
+    
+}
